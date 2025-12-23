@@ -1,30 +1,52 @@
-# Portfolio
+# Data Analysis Projects
 
-Welcome to my GitHub portfolio! Here are some of my projects:
+This repository contains a collection of **applied data analysis projects**, developed to demonstrate end-to-end analytical workflows including data generation, cleaning, exploratory analysis, modelling, and reporting.
+
+These projects primarily focus on **general data analysis and business analytics use cases** across different industries.
+
+---
 
 ## Projects
 
-### [VLCC Fleet Utilisation Analysis](https://github.com/HSSC01/Portfolio/tree/main/VLCC%20Fleet%20Utilisation)  
-A data analysis and reporting simulation project focusing on operational fleet efficiency in the maritime shipping industry (VLCC tankers). This project analyses monthly fleet activity data (Idle, Loaded, Ballast days) to calculate utilisation rates, identify underperforming vessels and routes, and provide actionable recommendations for improving deployment.
+### [VLCC Fleet Utilisation Analysis](https://github.com/HSSC01/Data_Analysis/tree/main/VLCC%20Fleet%20Utilisation)
+A data analysis and reporting simulation project focusing on operational fleet efficiency in the maritime shipping industry (VLCC tankers).
 
-**Skills:** Python, Data Cleaning, EDA, Feature Engineering, Outlier Detection, Business Reporting, Visual Storytelling  
+The project analyses monthly fleet activity data (Idle, Loaded, Ballast days) to calculate utilisation rates, identify underperforming vessels and routes, and produce structured, actionable insights related to asset deployment and operational efficiency.
 
+**Skills:**  
+Python, Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, Outlier Detection, Business Reporting, Visual Storytelling
 
-### [Retail Chain Project](https://github.com/HSSC01/Portfolio/tree/main/Retail%20Chain%20Project)  
-An end-to-end data engineering and analysis project simulating a retail chain’s operations with **1.5 million rows of self-generated synthetic data**. Involves:  
-- **Python**: Generating realistic, messy datasets with sales, products, and customer data.  
-- **SQL**: Cleaning and combining the datasets within Python.  
-- **EDA & Reporting**: Identifying key trends and insights.  
+---
 
-**Skills:** Python, SQL, Data Cleaning, EDA (Exploratory Data Analysis), Data Visualisation  
+### [Retail Chain Analysis](https://github.com/HSSC01/Data_Analysis/tree/main/Retail%20Chain%20Project)
+An end-to-end data analysis project simulating a retail chain’s operations using **1.5 million rows of self-generated synthetic data**.
 
+Key components include:
+- **Python**: Generation of realistic, noisy transactional datasets  
+- **SQL**: Data cleaning, transformation, and joins executed within Python  
+- **EDA & Reporting**: Identification of trends, seasonality, and performance drivers  
 
-### [Telco Customer Churn](https://github.com/HSSC01/Portfolio/tree/main/Telco%20Customer%20Churn)
-This project, chosen as part of the **IBM** course projects, focuses on analysing customer churn in a telecommunications company. It includes steps such as **Exploratory Data Analysis (EDA)**, **feature engineering**, and the application of **supervised machine learning** techniques. The goal is to build and evaluate models that predict customer churn, using various classification algorithms to identify key factors influencing customer retention.
+**Skills:**  
+Python, SQL, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualisation
 
-**Skills:** Python, EDA (Exploratory Data Analysis), Data Visualisation, Feature Engineering, Supervised Machine Learning, Pipelines
+---
 
+### [Telco Customer Churn Analysis](https://github.com/HSSC01/Data_Analysis/tree/main/Telco%20Customer%20Churn)
+An applied machine learning project completed as part of an **IBM data science course**, focusing on customer churn analysis in the telecommunications sector.
+
+The project includes exploratory analysis, feature engineering, and the implementation of supervised classification models to identify key drivers of customer attrition.
+
+**Skills:**  
+Python, Exploratory Data Analysis (EDA), Data Visualisation, Feature Engineering, Supervised Machine Learning, Model Pipelines
+
+---
+
+## Notes
+This repository represents **general-purpose data analysis work** and earlier applied analytics projects.  
+More finance- and macro-focused work is maintained in separate, dedicated repositories.
+
+---
 
 ## Contact
-- LinkedIn: [linkedin.com/in/honsingsamchung](https://www.linkedin.com/in/honsingsamchung/)
-- Email: [honsingsamchung@outlook.com](mailto:honsingsamchung@outlook.com)
+- LinkedIn: https://www.linkedin.com/in/honsingsamchung/
+- Email: honsingsamchung@outlook.com
